@@ -9,4 +9,5 @@ The designed architecture is backed in AWS infraestructure using:
 1. API Gateway as API service.
 2. Lambda with python code as backend code.
 3. RDS with MySQL as RDS engine
+
 Additionally, the upload of .csv files is contemplated using Postman.
