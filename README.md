@@ -12,5 +12,6 @@ The designed architecture is backed in AWS infraestructure using:
 
 Additionally, the upload of .csv files is contemplated using Postman.
 
+
 ![alt text](https://github.com/smoncayo26/demo-migration-csv-to-db/blob/main/architecture.jpg?raw=true)
 
